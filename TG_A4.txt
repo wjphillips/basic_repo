@@ -6,3 +6,7 @@ git commit -m "Initial commit"
 touch index.html
 git add index.html
 git commit -m "created html index"
+git add .
+git commit -m "added content to the documents"
+git remote add origin https://github.com/wjphillips/basic_repo.git
+git push origin master (then I entered my username and password)
