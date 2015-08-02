@@ -1,3 +1,8 @@
 mkdir TG_A4
 cd TG_A4
 git init
+git add TG_A4.txt
+git commit -m "Initial commit"
+touch index.html
+git add index.html
+git commit -m "created html index"
