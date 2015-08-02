@@ -1,0 +1,3 @@
+mkdir TG_A4
+cd TG_A4
+git init
