@@ -10,3 +10,6 @@ git add .
 git commit -m "added content to the documents"
 git remote add origin https://github.com/wjphillips/basic_repo.git
 git push origin master (then I entered my username and password)
+git add .
+git commit -m "made further changes to the documents"
+git push origin master
